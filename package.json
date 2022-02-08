@@ -1,6 +1,6 @@
 {
   "name": "tsickle",
-  "version": "0.46.0",
+  "version": "0.47.0",
   "description": "Transpile TypeScript code to JavaScript with Closure annotations.",
   "main": "out/src/tsickle.js",
   "typings": "out/src/tsickle.d.ts",
@@ -10,9 +10,6 @@
   "files": [
     "out/src/*"
   ],
-  "peerDependencies": {
-    "typescript": "h-joo/TypeScript#ts45-no-double-comments"
-  },
   "devDependencies": {
     "@types/diff-match-patch": "^1.0.32",
     "@types/glob": "5.0.35",
